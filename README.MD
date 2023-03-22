@@ -2,6 +2,7 @@
 
 This repo is created to maintain the issues of Resprite App.
 
-Go to [Issues](https://github.com/fengeon/Resprite-doc/issues) to post a bug report or feature request.
+ - [Issues](https://github.com/fengeon/Resprite-doc/issues) 
+ - [Discussions](https://github.com/fengeon/Resprite-doc/discussions)
 
 For more infomation, see our [website](https://resprite.fengeon.com).
