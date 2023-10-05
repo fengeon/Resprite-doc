@@ -24,7 +24,7 @@ Here we collect the fonts shared by users.
 
 (These fonts start with "Res-" are created by RespriteApp dev team. Free to use in Resprite App)
 
-- [GJ-TitleCase](/fonts/GJ-TitleCase.resprite-font) : a Title case font created by grymmjack
+- [GJ-TitleCase](/fonts/GJ-TitleCase.resprite-font) : a Title case font created by [grymmjack](https://www.youtube.com/@grymmjack)
 
 ![GJ-TitleCase](/fonts/GJ-TitleCase.png)
 
