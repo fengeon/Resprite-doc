@@ -2,6 +2,11 @@
 
 This repo is created to maintain the issues of Resprite App.
 
+Some vocabulary：
+
+【iOS】: means the iOS version
+【DA】: means the desktop & android version
+
  - [Issues](https://github.com/fengeon/Resprite-doc/issues) 
  - [Discussions](https://github.com/fengeon/Resprite-doc/discussions)
  - [Resprite Fonts Collection](https://github.com/fengeon/Resprite-doc/blob/main/resprite-fonts-collection.md)
